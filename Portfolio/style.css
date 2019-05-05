@@ -1,0 +1,45 @@
+#logo {
+	position: absolute;
+	left: 400px;
+	top: 25px;
+}
+.jumbotron {
+	height: 250px;
+	background-color: black;
+	color: red;
+}
+
+.h1 {
+	text-align: center;
+}
+
+.container-2 {
+	position: absolute;
+	top: 650px;
+	background-color: slategray;
+}
+
+.container-3 {
+	position: absolute;
+	top: 650px;
+	left: 400px;
+	background-color: slategray;
+}
+
+.container-4 {
+	position: absolute;
+	top: 650px;
+	left: 750px;
+	background-color: slategray;
+}
+
+.headshot {
+	position: absolute;
+	top: 390px;
+	left: 420px;
+}
+
+.container-fluid {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	background: slategray;
+}
